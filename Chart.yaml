@@ -20,5 +20,5 @@ version: 0.1.0
 appVersion: 1.16.0
 dependencies:
   - name: cplive-orc-plane
-    version: workflow-v1.67
+    version: workflow-v1.68
     repository: https://serverless-charts.amagi.tv
